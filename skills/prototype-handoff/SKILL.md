@@ -1,6 +1,11 @@
 ---
 name: prototype-handoff
-description: 将当前已经确认的 AI 产品原型导出为前端可消费的 page-structure.md。
+version: 1.0.0
+display_name: AI 原型前端交接
+display_name_en: AI Prototype Handoff
+description: 将已经确认完成的 AI 产品原型生成前端可消费的 page-structure.md。
+description_zh: 将已经确认完成的 AI 产品原型生成前端可消费的 page-structure.md，适用于产品原型完成后的前端交付。
+description_en: Convert a finalized AI product prototype into a frontend-consumable page-structure.md for handoff to frontend development.
 disable-model-invocation: true
 ---
 

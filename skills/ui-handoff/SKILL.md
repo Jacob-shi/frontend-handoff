@@ -1,6 +1,11 @@
 ---
 name: ui-handoff
-description: 根据产品原型 URL 或已有 page-structure.md，在当前前端项目中完成 UI 页面还原。
+version: 1.0.0
+display_name: UI 页面复刻与实现
+display_name_en: UI Page Recreation & Implementation
+description: 根据已有 UI、原型 URL 或 page-structure.md，在当前项目中复刻或实现页面。
+description_zh: 根据已有 UI、产品原型 URL 或 page-structure.md，在当前项目中复刻或实现 UI 页面。
+description_en: Recreate or implement UI pages in the current project from an existing UI, prototype URL, or page-structure.md.
 disable-model-invocation: true
 argument-hint: "<原型URL | page-structure.md>"
 ---

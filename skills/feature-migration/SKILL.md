@@ -1,6 +1,11 @@
 ---
 name: feature-migration
-description: 将一个已经完整运行的功能页面迁移到当前前端项目。
+version: 1.0.0
+display_name: 旧版前端页面与功能迁移
+display_name_en: Legacy Frontend Page & Feature Migration
+description: 将旧系统中已经完整运行的功能迁移到当前前端项目。
+description_zh: 分析旧系统中已经完整运行的页面、交互和实际网络请求，并将功能迁移到当前前端项目。
+description_en: Analyze an existing production feature, including its UI, interactions, and network requests, and migrate it into the current frontend project.
 disable-model-invocation: true
 argument-hint: "<原功能URL>"
 ---
